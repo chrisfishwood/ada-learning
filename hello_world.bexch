@@ -1,0 +1,17 @@
+[GENERATED OBJECT FILE]
+b__hello_world.o
+[PROJECT FILES]
+/Users/csteinmeyer/opt/GNAT/2020/share/gpr/_default.gpr
+20200724222349 0fc88a487d0b1af16a0ca58102bccc84
+[BOUND OBJECT FILES]
+/Users/csteinmeyer/projects/chrisfishwood/ada-learning//hello_world.o
+[GENERATED SOURCE FILES]
+b__hello_world.ads
+b__hello_world.adb
+b__hello_world.ali
+[RESULTING OPTIONS]
+-L/Users/csteinmeyer/projects/chrisfishwood/ada-learning/
+-L/Users/csteinmeyer/projects/chrisfishwood/ada-learning//
+-L/users/csteinmeyer/opt/gnat/2020/lib/gcc/x86_64-apple-darwin17.7.0/8.4.1/adalib/
+-static
+/users/csteinmeyer/opt/gnat/2020/lib/gcc/x86_64-apple-darwin17.7.0/8.4.1/adalib/libgnat.a
